@@ -2,4 +2,4 @@
 
 Download fox.min.js or use https://cdn.rawgit.com/lakefox/Fox/55ed010d/fox.min.js
 
-**Use [DOCS](lakefox.net) to learn more**
+**Use [DOCS](http://lakefox.net) to learn more**
