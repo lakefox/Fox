@@ -34,7 +34,7 @@ window.fox = function (lobby, room, onMessage, host) {
   var MSGID = 0;
 
   // Create the socket connection to the server
-  var socket = ioClient(host);
+  var socket = ioClient(host, {withCredentials: false});
 
   // Connection Established
   console.log("CONNECTED: true")
